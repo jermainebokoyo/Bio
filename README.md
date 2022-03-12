@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jermainebokoyo
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning phython and SQL
+- 💞️ I’m looking to collaborate on just about any projects
+- 📫 How to reach me twitter @jbokoyo1
