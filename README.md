@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jermainebokoyo
 - 📚 I’m Studying Data Science Engineering
-- 🌱 I’m currently learning Python and SQL 
+- 🌱 I’m currently learning Python, SQL and some Back-end Dev. stuff :)
 - 👨🏾‍💻 I’m looking to grow and collaborate with other like-minded individuals
